@@ -1,9 +1,0 @@
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\bin\Debug\Recepcion de proveedores.exe.config
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\bin\Debug\Recepcion de proveedores.exe
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\bin\Debug\Recepcion de proveedores.pdb
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\obj\Debug\Recepcion de proveedores.csproj.AssemblyReference.cache
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\obj\Debug\Recepcion_de_proveedores.Properties.Resources.resources
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\obj\Debug\Recepcion de proveedores.csproj.GenerateResource.cache
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\obj\Debug\Recepcion de proveedores.csproj.CoreCompileInputs.cache
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\obj\Debug\Recepcion de proveedores.exe
-C:\Users\fernando.zuniga\source\repos\Recepcion de proveedores\Recepcion de proveedores\obj\Debug\Recepcion de proveedores.pdb

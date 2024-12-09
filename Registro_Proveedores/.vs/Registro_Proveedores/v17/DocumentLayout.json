@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{AA324A2E-0DB0-44C5-A68B-03DF4F4534C3}|Registro_Proveedores.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA324A2E-0DB0-44C5-A68B-03DF4F4534C3}|Registro_Proveedores.csproj|c:\\users\\fernando.zuniga\\source\\repos\\registro_proveedores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA324A2E-0DB0-44C5-A68B-03DF4F4534C3}|Registro_Proveedores.csproj|c:\\users\\fernando.zuniga\\source\\repos\\registro_proveedores\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA324A2E-0DB0-44C5-A68B-03DF4F4534C3}|Registro_Proveedores.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA324A2E-0DB0-44C5-A68B-03DF4F4534C3}|Registro_Proveedores.csproj|C:\\Users\\fernando.zuniga\\source\\repos\\Registro_Proveedores\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AA324A2E-0DB0-44C5-A68B-03DF4F4534C3}|Registro_Proveedores.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fernando.zuniga\\source\\repos\\Registro_Proveedores\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\fernando.zuniga\\source\\repos\\Registro_Proveedores\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAiwL0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:38:57.364Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +45,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\fernando.zuniga\\source\\repos\\Registro_Proveedores\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAiwJ0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwBQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T20:59:03.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\fernando.zuniga\\source\\repos\\Registro_Proveedores\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
@@ -44,10 +61,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T20:36:42.424Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
